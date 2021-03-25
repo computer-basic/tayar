@@ -1,8 +1,11 @@
 {
-    "title": "title",
-    "message": "message",
+    "title": "New Update",
+    "message": "New update is availabe now",
     "version": "1.1",
-    "show": false,
+    "type": "update",
+    "show": true,
     "force": false,
+    "positive": "",
+    "negative":"",
     "url": "https://play.google.com/store/apps/details?id=mm.computer.basic&hl=en"
 }
