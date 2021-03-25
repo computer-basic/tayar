@@ -5,7 +5,7 @@
     "type": "update",
     "show": true,
     "force": false,
-    "positive": "",
-    "negative":"",
+    "positive": "Update",
+    "negative": "Cancel",
     "url": "https://play.google.com/store/apps/details?id=mm.computer.basic&hl=en"
 }
